@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Spigoloni</h1>
-<h3 align="center">A 27 years old passionate developer from Brazil, living in Germany</h3>
+<h3 align="center">A 27 years old passionate developer from Brazil</h3>
 
 - 🌱 I’m always trying to learn more and more of **web development**, but I already have experience with HTML, CSS, JavaScript, jQuery, Node.js, React, Express.js and some other frameworks. Check out some of my projects here on GitHub!
 
